@@ -1,0 +1,43 @@
+#row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 2%;
+}
+
+#dropdownMenuButton1{
+  background-color: white;
+  color: black;
+}
+
+#resultDiv{
+  margin: 2%;
+}
+
+#inputType{
+  margin-left: 5%;
+  padding: 1%;
+}
+
+#labelInputType{
+  margin-left: 5%;
+}
+
+.dropdown-toggle::after{
+  color: black;
+}
+
+.btn-primary{
+  margin-top: 2.5%;
+  margin-left: 2%;
+}
+
+h3{
+  color: white;
+  font-weight: bold;
+  margin-top: 5%;
+}
+
+label{
+  display: block;
+}
